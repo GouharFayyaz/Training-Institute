@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/GouharFayyaz/Training-Institute.git/static/css/main.f8dbfdf8.css",
+    "main.js": "/GouharFayyaz/Training-Institute.git/static/js/main.d3250e04.js",
+    "static/media/slide-img2.png": "/GouharFayyaz/Training-Institute.git/static/media/slide-img2.326536d8b19f7cf422eb.png",
+    "static/media/slide-img1.png": "/GouharFayyaz/Training-Institute.git/static/media/slide-img1.8c33eefae91a8f1a129c.png",
+    "static/media/social-scaled.jpg": "/GouharFayyaz/Training-Institute.git/static/media/social-scaled.f50f7ceecb2c812ceb10.jpg",
+    "static/media/section_3_bg.jpg": "/GouharFayyaz/Training-Institute.git/static/media/section_3_bg.acbb9f37e1afa42da094.jpg",
+    "static/media/404_bg.jpg": "/GouharFayyaz/Training-Institute.git/static/media/404_bg.47c4810e817b773be687.jpg",
+    "static/media/section_6_bg.jpg": "/GouharFayyaz/Training-Institute.git/static/media/section_6_bg.93a84c04dee22fabc6f5.jpg",
+    "static/media/blog1.jpg": "/GouharFayyaz/Training-Institute.git/static/media/blog1.d0e073cc08944c4f69c5.jpg",
+    "static/media/enroll-535x600-e1539945261304.jpg": "/GouharFayyaz/Training-Institute.git/static/media/enroll-535x600-e1539945261304.f188cbc13600af3888d8.jpg",
+    "static/media/brdcrm_bg.jpg": "/GouharFayyaz/Training-Institute.git/static/media/brdcrm_bg.3b9f2e2a74b47cef1eac.jpg",
+    "static/media/team_9.jpg": "/GouharFayyaz/Training-Institute.git/static/media/team_9.954926f31359033051fb.jpg",
+    "static/media/photo9.jpg": "/GouharFayyaz/Training-Institute.git/static/media/photo9.b3af728076f30d6bae25.jpg",
+    "static/media/photo4.jpg": "/GouharFayyaz/Training-Institute.git/static/media/photo4.705d4abe142d91ad66ab.jpg",
+    "static/media/team_10.jpg": "/GouharFayyaz/Training-Institute.git/static/media/team_10.01cd7ea7eb306e6e646e.jpg",
+    "static/media/team_11.jpg": "/GouharFayyaz/Training-Institute.git/static/media/team_11.4df22d1bf46cb8f83689.jpg",
+    "static/media/team_12.jpg": "/GouharFayyaz/Training-Institute.git/static/media/team_12.e635670418cd73983a7b.jpg",
+    "static/media/pic8.jpg.jpg": "/GouharFayyaz/Training-Institute.git/static/media/pic8.jpg.60dbeba7f2303a300206.jpg",
+    "static/media/photo3.jpg": "/GouharFayyaz/Training-Institute.git/static/media/photo3.dc49d7b62bbac7f1eb00.jpg",
+    "static/media/photo11.jpg": "/GouharFayyaz/Training-Institute.git/static/media/photo11.d18b2ef04a726fa02812.jpg",
+    "static/media/photo8.jpg": "/GouharFayyaz/Training-Institute.git/static/media/photo8.fc2ca0152d000c75fa82.jpg",
+    "static/media/pic10.jpg.jpg": "/GouharFayyaz/Training-Institute.git/static/media/pic10.jpg.c73bf4ad58aab323acab.jpg",
+    "static/media/photo5.jpg": "/GouharFayyaz/Training-Institute.git/static/media/photo5.6a43b8e66e7178ab9e0b.jpg",
+    "static/media/photo7.jpg": "/GouharFayyaz/Training-Institute.git/static/media/photo7.22e4059046de393bfc31.jpg",
+    "static/media/photo10.jpg": "/GouharFayyaz/Training-Institute.git/static/media/photo10.337bb80b79c5414970a8.jpg",
+    "static/media/pic11.jpg.jpg": "/GouharFayyaz/Training-Institute.git/static/media/pic11.jpg.7ede07e0ec8030e2bd24.jpg",
+    "static/media/pic6.jpg": "/GouharFayyaz/Training-Institute.git/static/media/pic6.8ce29b03060e461ce6d8.jpg",
+    "static/media/pic7.jpg.jpg": "/GouharFayyaz/Training-Institute.git/static/media/pic7.jpg.236b2f121f616e25662f.jpg",
+    "static/media/photo1.jpg": "/GouharFayyaz/Training-Institute.git/static/media/photo1.d1d5dd27a0f8b6551427.jpg",
+    "static/media/crs3-215x230.jpg": "/GouharFayyaz/Training-Institute.git/static/media/crs3-215x230.b66d3b7a137d5700a204.jpg",
+    "static/media/crs1-215x230.jpg": "/GouharFayyaz/Training-Institute.git/static/media/crs1-215x230.d20f24eae285347e7135.jpg",
+    "index.html": "/GouharFayyaz/Training-Institute.git/index.html",
+    "main.f8dbfdf8.css.map": "/GouharFayyaz/Training-Institute.git/static/css/main.f8dbfdf8.css.map",
+    "main.d3250e04.js.map": "/GouharFayyaz/Training-Institute.git/static/js/main.d3250e04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8dbfdf8.css",
+    "static/js/main.d3250e04.js"
+  ]
+}
