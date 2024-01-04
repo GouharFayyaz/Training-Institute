@@ -1,0 +1,32 @@
+.img6{
+    width: 100%;
+    height: 5vh;
+    background-image:url(../../assets/images/F_Logo.png) ;
+    background-size: 100% 100%;
+}
+
+.para:hover{
+    color: #eb7f1c;
+}
+.ion{
+
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -20px;
+}
+.ion{
+    color: #eb7f1c;
+    
+}
+.img7{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.541),rgba(0, 0, 0, 0.562)), url(../../assets/images/section_6_bg.jpg);
+    background-size: 100% 100%;
+    height: 40vh;
+    
+}
+.head77{
+    font-weight: 400;
+    font-size: 28px;
+}

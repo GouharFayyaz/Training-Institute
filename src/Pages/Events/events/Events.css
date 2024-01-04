@@ -1,0 +1,12 @@
+.events_btn{
+    outline: none;
+    border: 1px solid #000;
+}
+.events_btn:hover{
+    background-color: darkblue;
+    color: white;
+    
+}
+.bbn{
+    background-color: white;
+}

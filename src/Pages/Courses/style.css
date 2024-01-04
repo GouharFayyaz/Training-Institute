@@ -1,0 +1,52 @@
+.inputIMG{
+    /* background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg14.jpg);  */
+     /* background-size: 100% 100%;  */
+     overflow: hidden !important;
+     transition-duration: 1s;    
+     position: relative;
+     border: 1px solid #000;
+     height: 40vh;
+ }
+.inputIMG:hover>img{
+transform: scale(1.1);
+transition-duration: .3s;
+}  
+.training{
+    color: rgb(96, 96, 216);
+    font-size: 14px;
+    font-weight: lighter;
+    transition-duration: .7s;
+    letter-spacing: .5px;
+}
+.training:hover{
+    color: orange;
+}
+.progtitle:hover{
+    color: orange;
+
+}
+.progtitle{
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.weeks{
+    font-size: 12px;
+}
+.card-text{
+    color: gray;
+    /* font-weight: lighter !important; */
+    letter-spacing: 1px;
+    color:  rgb(20, 19, 19);
+}
+.oprdiv{
+    position: absolute;
+    z-index: 10 !important;
+    top: 0%;   
+    transition-duration: 1s;
+}
+.cardmain:hover .oprdiv{
+    background-color: rgba(0, 0, 0, 0.5);
+
+}

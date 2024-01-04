@@ -1,0 +1,19 @@
+.inp{
+  width: 80%;
+  border: none;
+  outline: none;
+}
+.btn1{
+  width: 80%;
+  border: none;
+  outline: none;
+  background-color: #1B3441;
+  color: white;
+}
+.cont4{
+  height: 75vh;
+  background-color: #EB7F1C;
+}
+.hei{
+  height: 90vh;
+}

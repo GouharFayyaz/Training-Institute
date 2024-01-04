@@ -1,0 +1,43 @@
+.para1{
+    font-size: 30px;
+}
+.cont5{
+    transition-duration: 1s;
+}
+.cont5:hover{
+    box-shadow: 0px 5px 8px 1px grey;
+}
+.new{
+    position: relative;
+}
+.circle{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: 8px solid white;
+    /* background-color: silver; */
+    transition-duration: 1s;
+    position: absolute;
+    top: -7%;
+}
+.cont5{
+    transition-duration: 1s;
+}
+.cont5:hover .circle{
+    transform: rotateY(180deg);
+    background-color: orangered !important ;
+    color: white !important; 
+    border: 8px solid white;
+}
+.head1{
+    font-weight: 200;
+}
+.cont5:hover .clr{
+    color: white;
+}
+.clr{
+    color: orangered;
+    font-size: 40px;
+    transition-duration: 1s;
+}
+

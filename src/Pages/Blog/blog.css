@@ -1,0 +1,25 @@
+
+input{
+    outline: none !important;
+    border: none;
+}
+.form-control:focus {
+    box-shadow: none;
+    border: 1px solid grey;
+    }
+.form-check-input:focus {
+    box-shadow: none;
+    }
+.button1{
+    background-color: #EB7F1C;
+    padding: .3rem 1rem;
+    border: 1px solid gray;
+    outline: none;
+    transition-duration: .5s;
+
+
+}
+.button1:hover{
+    background-color: white;
+    /* border: 1px solid #000; */
+}

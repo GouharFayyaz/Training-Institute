@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cont7{
+    height: 70vh;
+    width: 99%;
+    /* border: 1px solid #000; */
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../../assets/images/section_3_bg.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+/* .max{
+    height: 65vh;
+} */
+.tbn{
+    background-color: orange;
+    border: none;
+    outline: none;
+}
+.head88{
+    font-weight: 400;
+    font-size: 30px;
+}
+.main{
+    height: 40vh;
+    width: 90%;
+}
+.react-player{
+    margin-top: -60px;
+
+}
+
+
+@media screen and (min-width:525px) and (max-width:991px) {
+    .cont7{
+        height: 120vh;
+        /* background-color: black; */
+    }
+    .react-player{
+        margin-top: 0px;
+    }
+    .mini{
+        position: relative;
+        left: 10%;
+        top: 20vh;
+    }
+}
+@media screen and (min-width:320px) and (max-width:525px){
+    .cont7{
+        min-height: 135vh;
+        
+        /* background-color: black; */
+    }
+    .react-player{
+        margin-top: 0px;
+    }
+    .mini{
+        margin-left: 2px;
+        padding-right: 10px;
+
+        position: relative;
+        left: 10%;
+        top: 18vh;
+
+    }
+}

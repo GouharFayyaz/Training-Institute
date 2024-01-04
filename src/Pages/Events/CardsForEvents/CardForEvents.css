@@ -1,0 +1,20 @@
+.card_event:hover{
+    color: #EB7F1C;
+}
+.card_event_p{
+    color: #EB7F1C;
+}
+.card_event_p:hover{
+    color: black;
+}
+.card_event_color{
+    color: gray;
+    border: none;
+    transition-duration: .6s;
+
+
+}
+.card_event_color:hover{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 3px 0px, rgba(60, 64, 67, 0.35) 0px 3px 6px 3px;
+}
+

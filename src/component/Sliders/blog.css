@@ -1,0 +1,89 @@
+.para22{
+  font-size: 30px;
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+.bolg{
+  height: 65vh;
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.c1{
+  /* height: 38vh; */
+  border: none;
+}
+.head4{
+  color: #002B46;
+  font-size: 30px;
+}
+.para00{
+  color: grey !important;
+  font-size: 16px;
+}
+.nine:hover .eight{
+  background-image:linear-gradient(rgba(240, 154, 26, 0.8),rgba(240, 154, 26, 0.8)),url(../../assets/images/crs1-215x230.jpg);
+  background-size: 100% 100%;
+  
+
+}
+.eight{
+  background-image: url(../../assets/images/crs1-215x230.jpg);
+  background-size: 100% 100%;
+  height: 34vh;
+  /* width: 33%; */
+
+}
+.four:hover .three{
+  background-image:linear-gradient(rgba(240, 154, 26, 0.8),rgba(240, 154, 26, 0.8)),url(../../assets/images/crs2-215x230.jpg);
+  background-size: 100% 100%;
+
+  
+
+}
+.three{
+  background-image:url(../../assets/images/crs2-215x230.jpg);
+  background-size: 100% 100%;
+  height: 34vh;
+  /* width: 33%; */
+
+}
+.two:hover .one{
+  background-image:linear-gradient(rgba(240, 154, 26, 0.8),rgba(240, 154, 26, 0.8)),url(../../assets/images/crs3-215x230.jpg);
+  background-size: 100% 100%;
+
+  
+
+}
+.one{
+  background-image: url(../../assets/images/crs3-215x230.jpg);
+  background-size: 100% 100%;
+  height: 34vh;
+  /* width: 33%; */
+
+}

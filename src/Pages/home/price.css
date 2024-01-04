@@ -1,0 +1,27 @@
+.pri:hover{
+    box-shadow: 1px 3px 10px 1px silver;
+}
+.pri{
+    transition-duration: 1s;
+}
+.pri:hover .head{
+    color: #eb7f1c;
+}
+.pri:hover .hr{
+    background-color: #eb7f1c;
+}
+.hro1{
+    height: 5px;
+    
+}
+.button2{
+    transition-duration: 1s;
+}
+.button2{
+    background-color: white;
+    border: 1px solid #000;
+}
+.button2:hover{
+    background: #002b46;
+    color: white;
+}

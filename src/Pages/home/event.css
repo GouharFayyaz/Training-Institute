@@ -1,0 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.own_img{
+    min-height: 85vh;
+    width: 100%;
+}
